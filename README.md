@@ -1,2 +1,2 @@
-# postdoc_code
-Example codes from my postdoc @TU-Ilmenau
+# research project
+Example codes from multilingual topic model.
